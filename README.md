@@ -31,29 +31,9 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-<div align="center">
+<div>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse"/>
 </div>
 
 ---
-
-## 👥 Quem somos?
-
-<div align="center">
-  <a href="https://github.com/Gabrielzab">
-    <img width="250" src="https://avatars.githubusercontent.com/Gabrielzab?s=250" alt="Gabriel Ferreira"/>
-    <br><strong>Gabriel Ferreira</strong>
-  </a>
-  
-  <a href="https://github.com/juliamacedo63">
-    <img width="250" src="https://avatars.githubusercontent.com/juliamacedo63?s=250" alt="Júlia Macedo"/>
-    <br><strong>Júlia Macedo</strong>
-  </a>
-  
-  <a href="https://github.com/BeatrizLemoss">
-    <img width="250" src="https://avatars.githubusercontent.com/BeatrizLemoss?s=250" alt="Beatriz Lemos"/>
-    <br><strong>Beatriz Lemos</strong>
-  </a>
-</div>
-
