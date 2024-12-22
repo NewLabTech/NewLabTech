@@ -1,8 +1,6 @@
 # 🧑‍💻 **NewLabTech** 
 
 
-![Captura de tela](https://github.com/user-attachments/assets/3dfb3d16-a8ea-43ca-94de-5cc8d7610a68)
-
 ## ➭ Sobre Nós
 
 - _Somos uma empresa tecnológica dedicada a simplificar o uso de softwares do dia a dia, tornando-os mais acessíveis. Nosso objetivo é otimizar essas ferramentas para promover o aprendizado contínuo de nossos usuários._
