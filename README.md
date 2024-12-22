@@ -1,3 +1,4 @@
+
 # NLT
 
 ![Captura de tela](https://github.com/user-attachments/assets/3dfb3d16-a8ea-43ca-94de-5cc8d7610a68)
@@ -32,8 +33,8 @@
 ## 🛠️ Tecnologias Utilizadas
 
 <div align="center">
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse"/>
 </div>
 
 ---
