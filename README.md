@@ -40,6 +40,20 @@
 
 ## 👥 Quem somos?
 
-|   |   |   |
-|---|---|---|
-| [![Gabriel Ferreira](https://avatars.githubusercontent.com/Gabrielzab?s=300)](https://github.com/Gabrielzab) | [![Júlia Macedo](https://avatars.githubusercontent.com/juliamacedo63?s=300)](https://github.com/juliamacedo63) | [![Beatriz Lemos](https://avatars.githubusercontent.com/BeatrizLemoss?s=300)](https://github.com/BeatrizLemoss) |
+<div align="center">
+  <a href="https://github.com/Gabrielzab">
+    <img width="250" src="https://avatars.githubusercontent.com/Gabrielzab?s=250" alt="Gabriel Ferreira"/>
+    <br><strong>Gabriel Ferreira</strong>
+  </a>
+  
+  <a href="https://github.com/juliamacedo63">
+    <img width="250" src="https://avatars.githubusercontent.com/juliamacedo63?s=250" alt="Júlia Macedo"/>
+    <br><strong>Júlia Macedo</strong>
+  </a>
+  
+  <a href="https://github.com/BeatrizLemoss">
+    <img width="250" src="https://avatars.githubusercontent.com/BeatrizLemoss?s=250" alt="Beatriz Lemos"/>
+    <br><strong>Beatriz Lemos</strong>
+  </a>
+</div>
+
