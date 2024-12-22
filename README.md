@@ -28,10 +28,6 @@
 - **Excelência:** nos dedicamos a entregar produtos de alta qualidade, focando nos pequenos detalhes
 - **Respeito e ética:** visamos a evolução técnica e pessoal
 
----
-
-## 🛠️ Tecnologias Utilizadas
-
 <div>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse"/>
