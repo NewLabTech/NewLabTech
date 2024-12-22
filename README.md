@@ -38,4 +38,4 @@
 
 |   |   |   |   |
 |---|---|---|---|
-| [![Gabriel Ferreira](https://avatars.githubusercontent.com/Gabrielzab?s=300)](https://github.com/Gabrielzab) <br> **Gabriel Ferreira** | [![Júlia Macedo](https://avatars.githubusercontent.com/juliamacedo63?s=300)](https://github.com/juliamacedo63) <br> **Júlia Macedo** | [![Beatriz Lemos](https://avatars.githubusercontent.com/BeatrizLemoss?s=300)](https://github.com/BeatrizLemoss) <br> **Beatriz Lemos** | [![Pedro Lucas](https://avatars.githubusercontent.com/pedro-2603?s=300)](https://github.com/pedro-2603) <br> **Pedro Lucas** |
+| [![Gabriel Ferreira](https://avatars.githubusercontent.com/Gabrielzab?s=300)](https://github.com/Gabrielzab) <br> **Gabriel Ferreira** | [![Júlia Macedo](https://avatars.githubusercontent.com/juliamacedo63?s=140)](https://github.com/juliamacedo63) <br> **Júlia Macedo** | [![Beatriz Lemos](https://avatars.githubusercontent.com/BeatrizLemoss?s=140)](https://github.com/BeatrizLemoss) <br> **Beatriz Lemos** | [![Pedro Lucas](https://avatars.githubusercontent.com/pedro-2603?s=140)](https://github.com/pedro-2603) <br> **Pedro Lucas** |
