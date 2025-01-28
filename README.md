@@ -48,6 +48,17 @@ Promovendo experiências simples e eficazes.
 </div>
 ---
 
+
+## 🏆 **Acreditamos no Futuro!**
+
+**A NewLabTech** não é apenas sobre desenvolver ferramentas, mas sobre criar **futuro**, **transformação** e **conexão** entre as pessoas e a tecnologia. Estamos empolgados em ver como nossas soluções podem impactar a vida de cada usuário, simplificando o aprendizado e a interação com a tecnologia.
+
+---
+
+✨ **Venha fazer parte da nossa jornada!**
+
+**#JuntosSomosMaisFortes**
+
 ## 👥 Quem Somos?
 
 Conheça os membros da nossa equipe:
