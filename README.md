@@ -36,13 +36,16 @@ Promovendo experiências simples e eficazes.
 
 ---
 
-## 💻 Tecnologias Utilizadas
+## 💻 **Tecnologias Utilizadas**
+
+**Ferramentas que nos ajudam a transformar ideias em realidade:**
 
 <div>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"/>
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" alt="Eclipse"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git"/>
+  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub"/>
 </div>
-
 ---
 
 ## 👥 Quem Somos?
