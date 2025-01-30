@@ -6,33 +6,20 @@ Somos uma empresa tecnológica dedicada a **simplificar o uso de softwares do di
 
 ---
 
-## ➭ Missão
+## 🌟 Sobre a NewLabTech
+A **NewLabTech** é uma empresa focada no desenvolvimento de soluções tecnológicas que tornam a vida mais prática e eficiente. Acreditamos que, através da criatividade e tecnologia, podemos superar barreiras e criar um futuro mais conectado para todos.
 
-**Nosso propósito é:**
+### **Missão**
+Transformar ideias em soluções tecnológicas de impacto, promovendo inovação e acessibilidade para nossos clientes e a sociedade.
 
-- **Obter um bom aprendizado** em Programação Orientada a Objetos.
-- **Desenvolver o trabalho em equipe** entre os membros da nossa equipe.
+### **Visão**
+Ser referência global em tecnologia aplicada, com produtos que inspirem confiança e qualidade, sempre comprometidos com a excelência e a sustentabilidade.
 
----
-
-## ➭ Visão
-
-**Desenvolver um software de alta qualidade, intuitivo e funcional**, que inclua ferramentas práticas e interativas, como:
-- 🕹️ **Jogo da Velha**
-- 🧮 **Calculadora**
-
-Promovendo experiências simples e eficazes.
-
----
-
-## ➭ Valores
-
-**Nossos valores são:**
-
-- 🌟 **Inovação**: Buscando novas soluções para melhorar e simplificar a experiência do usuário.
-- 🤝 **Colaboração e trabalho em equipe**: Promovendo um ambiente de apoio e crescimento profissional coletivo, valorizando a contribuição de cada membro.
-- 🏅 **Excelência**: Dedicamo-nos a entregar produtos de alta qualidade, com foco nos pequenos detalhes.
-- ⚖️ **Respeito e ética**: Visamos a evolução técnica e pessoal de nossa equipe.
+### **Valores**
+- **Inovação**: Buscamos novas formas de resolver problemas.
+- **Compromisso**: Garantimos a entrega com qualidade e responsabilidade.
+- **Ética**: Atuamos com integridade e respeito.
+- **Colaboração**: Acreditamos que o trabalho em equipe é o caminho para o sucesso.
 
 ---
 
