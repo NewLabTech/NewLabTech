@@ -3,7 +3,11 @@
 ## ➭ Sobre Nós
 
 Somos uma empresa tecnológica dedicada a **simplificar o uso de softwares do dia a dia**, tornando-os mais acessíveis. Nosso objetivo é **otimizar essas ferramentas** para promover o aprendizado contínuo de nossos usuários.
+## 📊 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NewLabTech&show_icons=true&theme=dark&border_radius=10&hide_title=true)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=NewLabTech&layout=compact&theme=dark&border_radius=10)
 ---
 
 ## 🌟 Sobre a NewLabTech
